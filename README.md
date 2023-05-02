@@ -2,6 +2,6 @@
 
 this is freelance project, which i`m developing with my team  
 
-i just copied project rep in my profile  
+i just copied project sources from original rep in my profile  
 
-original with all process of work and commits ( https://github.com/Kly4na16/project_garbuz )
+#original with all process of work and commits ( https://github.com/Kly4na16/project_garbuz )#
