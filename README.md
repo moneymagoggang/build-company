@@ -1,2 +1,1 @@
-# build-company
-website for startup house renovation company
+# project_garbuz
